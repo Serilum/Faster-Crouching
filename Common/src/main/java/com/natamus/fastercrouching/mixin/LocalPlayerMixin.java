@@ -1,4 +1,4 @@
-package com.natamus.fastercrouching.fabric.mixin;
+package com.natamus.fastercrouching.mixin;
 
 import net.minecraft.client.player.LocalPlayer;
 import net.minecraft.world.item.enchantment.EnchantmentHelper;
