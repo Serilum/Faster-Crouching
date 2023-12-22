@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "id": "fastercrouching",
-  "version": "2.4",
+  "version": "2.5",
 
   "name": "Faster Crouching",
   "description": "Set the crouch/sneak speed of players to be the same as when walking and sprinting.",
@@ -18,7 +18,7 @@
   "environment": "*",
   "entrypoints": { "main": [ "com.natamus.fastercrouching.ModFabric" ] },
   "mixins": [
-    "fastercrouching_fabric.mixins.json"
+    "fastercrouching.mixins.json"
   ],
 
   "depends": {
@@ -26,7 +26,7 @@
     "fabric": "*",
     "minecraft": ">=1.19",
     "java": ">=17",
-    "collective": ">=7.21"
+    "collective": ">=7.26"
   },
 
   "custom": {
