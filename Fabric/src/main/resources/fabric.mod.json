@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "id": "fastercrouching",
-  "version": "2.6",
+  "version": "2.7",
 
   "name": "Faster Crouching",
   "description": "Set the crouch/sneak speed of players to be the same as when walking and sprinting.",

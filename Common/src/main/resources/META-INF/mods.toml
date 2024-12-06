@@ -6,7 +6,7 @@ logoFile="icon.png"
 
 [[mods]]
 modId="fastercrouching"
-version="2.6"
+version="2.7"
 displayName="Faster Crouching"
 displayURL="https://serilum.com/mod/faster-crouching"
 authors="Rick South"
