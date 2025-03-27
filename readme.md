@@ -1,13 +1,13 @@
-<h2>Faster Crouching</h2>
-<p><a href="https://github.com/Serilum/Faster-Crouching"><img src="https://serilum.com/assets/data/logo/faster-crouching.gif"></a></p><h2>Download</h2>
-<p>You can download Faster Crouching on CurseForge and Modrinth:</p><p>&nbsp;&nbsp;CurseForge: &nbsp;&nbsp;<a href="https://curseforge.com/minecraft/mc-mods/faster-crouching">https://curseforge.com/minecraft/mc-mods/faster-crouching</a><br>&nbsp;&nbsp;Modrinth: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://modrinth.com/mod/faster-crouching">https://modrinth.com/mod/faster-crouching</a></p>
-<h2>Issue Tracker</h2>
-<p>To keep a better overview of all mods, the issue tracker is located in a separate repository.<br>&nbsp;&nbsp;For issues, ideas, suggestions or anything else, please follow this link:</p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;-> <a href="https://serilum.com/url/issue-tracker">Issue Tracker</a></p>
-<h2>Pull Requests</h2>
-<p>Because of the way mod loader files are bundled into one jar, some extra information is needed to do a PR.<br>&nbsp;&nbsp;A wiki page entry about it is available here:</p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;-> <a href="https://serilum.com/url/pull-requests">Pull Request Information</a></p>
-<h2>Mod Description</h2>
+<h2>Faster Crouching</h2>
+<p><a href="https://github.com/Serilum/Faster-Crouching"><img src="https://serilum.com/assets/data/logo/faster-crouching.gif"></a></p><h2>Download</h2>
+<p>You can download Faster Crouching on CurseForge and Modrinth:</p><p>&nbsp;&nbsp;CurseForge: &nbsp;&nbsp;<a href="https://curseforge.com/minecraft/mc-mods/faster-crouching">https://curseforge.com/minecraft/mc-mods/faster-crouching</a><br>&nbsp;&nbsp;Modrinth: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://modrinth.com/mod/faster-crouching">https://modrinth.com/mod/faster-crouching</a></p>
+<h2>Issue Tracker</h2>
+<p>To keep a better overview of all mods, the issue tracker is located in a separate repository.<br>&nbsp;&nbsp;For issues, ideas, suggestions or anything else, please follow this link:</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;-> <a href="https://serilum.com/url/issue-tracker">Issue Tracker</a></p>
+<h2>Pull Requests</h2>
+<p>Because of the way mod loader files are bundled into one jar, some extra information is needed to do a PR.<br>&nbsp;&nbsp;A wiki page entry about it is available here:</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;-> <a href="https://serilum.com/url/pull-requests">Pull Request Information</a></p>
+<h2>Mod Description</h2>
 <p style="text-align:center"><a href="https://serilum.com/" target="_blank" rel="nofollow"><img src="https://github.com/Serilum/.cdn/raw/main/description/header/header.png" alt="" width="838" height="400"></a></p>
 <p style="text-align:center"><a href="https://curseforge.com/members/serilum/projects" target="_blank" rel="nofollow"><img src="https://raw.githubusercontent.com/Serilum/.data-workflow/main/badges/svg/curseforge.svg" width="200"></a> <a href="https://modrinth.com/user/Serilum" target="_blank" rel="nofollow"><img src="https://raw.githubusercontent.com/Serilum/.data-workflow/main/badges/svg/modrinth.svg" width="200"></a> <a href="https://patreon.com/serilum" target="_blank" rel="nofollow"><img src="https://raw.githubusercontent.com/Serilum/.data-workflow/main/badges/svg/patreon.svg" width="200"></a> <a href="https://youtube.com/@serilum" target="_blank" rel="nofollow"><img src="https://raw.githubusercontent.com/Serilum/.data-workflow/main/badges/svg/youtube.svg" width="200"></a></p>
 <p><strong><span style="font-size:24px">Requires the library mod&nbsp;<a style="font-size:24px" href="https://curseforge.com/minecraft/mc-mods/collective" target="_blank" rel="nofollow">Collective</a>.</span></strong><br><br><strong>&nbsp;&nbsp;&nbsp;This mod is part of <span style="color:#008000"><a style="color:#008000" href="https://curseforge.com/minecraft/modpacks/the-vanilla-experience" target="_blank" rel="nofollow">The Vanilla Experience</a></span> modpack and <span style="color:#804d4f"><a style="color:#804d4f" href="https://curseforge.com/minecraft/mc-mods/serilums-extra-bundle" target="_blank" rel="nofollow">Serilum's Extra Bundle</a></span> mod.</strong><br><span style="font-size:18px">Faster Crouching makes the crouching/sneaking speed of players to be the same speed as when walking normally.&nbsp;Any speed potion effects will also increase the max speed of crouching, equal to the normal max speed. You'll be able to sprint while crouching as well.<br><br><span style="font-size:24px"><strong>The effect in action:</strong></span><br><picture><img src="https://github.com/Serilum/.cdn/raw/main/projects/faster-crouching/a.gif"></picture><br></span><strong><br></strong></p>
