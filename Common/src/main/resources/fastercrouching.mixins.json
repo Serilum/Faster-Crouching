@@ -1,0 +1,16 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "com.natamus.fastercrouching.mixin",
+  "compatibilityLevel": "JAVA_25",
+  "mixins": [
+    "LivingEntityMixin"
+  ],
+  "client": [
+  ],
+  "server": [
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
