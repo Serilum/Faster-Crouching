@@ -1,4 +1,4 @@
-package com.natamus.fastercrouching.mixin;
+package com.serilum.fastercrouching.mixin;
 
 import net.minecraft.core.Holder;
 import net.minecraft.world.entity.LivingEntity;
