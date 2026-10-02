@@ -1,4 +1,4 @@
-package com.natamus.fastercrouching;
+package com.serilum.fastercrouching;
 
 
 public class ModCommon {

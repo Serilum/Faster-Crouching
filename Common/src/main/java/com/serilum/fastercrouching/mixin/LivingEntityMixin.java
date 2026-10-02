@@ -1,4 +1,4 @@
-package com.natamus.fastercrouching.mixin;
+package com.serilum.fastercrouching.mixin;
 
 import net.minecraft.world.entity.LivingEntity;
 import net.minecraft.world.entity.player.Player;

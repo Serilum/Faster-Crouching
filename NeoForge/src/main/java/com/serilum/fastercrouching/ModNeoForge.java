@@ -1,8 +1,8 @@
-package com.natamus.fastercrouching;
+package com.serilum.fastercrouching;
 
 import com.natamus.collective.check.RegisterMod;
 import com.natamus.collective.check.ShouldLoadCheck;
-import com.natamus.fastercrouching.util.Reference;
+import com.serilum.fastercrouching.util.Reference;
 import net.neoforged.bus.api.IEventBus;
 import net.neoforged.fml.common.Mod;
 import net.neoforged.fml.event.lifecycle.FMLLoadCompleteEvent;
